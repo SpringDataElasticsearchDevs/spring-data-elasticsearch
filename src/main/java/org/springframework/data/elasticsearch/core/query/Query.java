@@ -27,7 +27,6 @@ import java.util.List;
  *
  * @author Rizwan Idrees
  * @author Mohsin Husen
- * @author Franck Marchand
  */
 public interface Query {
 
