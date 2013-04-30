@@ -2,4 +2,4 @@ Note : This Project is moved to SpringSource Repository [Spring-Data-Elasticsear
 Hence all the new changes will be pushed to new repository
 
 Thanks
-BioMed Cetral Development Team
+BioMed Central Development Team
